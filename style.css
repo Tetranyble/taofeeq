@@ -1,0 +1,73 @@
+p{
+    border: 2px;
+   
+}
+.portfolio_title{
+    font-size: 12px;
+    padding: .5rem;
+    background-color: #CED4C7;
+    border-radius: 20px;
+}
+img{
+    width: 500px;
+}
+.image_container{
+    width: 500px;
+    border-radius: 50%;
+    height: 500px;
+}
+.container_centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.center_content{
+    text-align: center;
+}
+.author{
+    display: inline;
+    font-size: .5rem;
+}
+.article{
+    background-color: #CED4C7;
+    margin-top: 16px;
+    padding: 16px;
+}
+.profile{
+
+}
+.profile{
+    font-family: sans-serif;
+    font-weight: 600;
+    
+}
+#profile{
+    padding: 40px;
+    border-radius: 10px;
+    border-color: pink;
+    border-style: solid;
+    text-align: center;
+    transition: all 1s ease-out;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    margin-bottom: 16px;
+}
+.py{
+    
+    margin: 40px;
+    padding: 40px;
+}
+.button{
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+   font-size: 32px;
+   font-weight: 700;
+    padding: 40px;
+    text-align: center;
+    width: 100%;
+}
