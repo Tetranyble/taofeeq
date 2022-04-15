@@ -1,0 +1,25 @@
+{
+  "name": "leonard",
+  "version": "1.0.0",
+  "description": "this is my portfolio website",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetranyble/leonard.git"
+  },
+  "keywords": [
+    "protfolio",
+    "website",
+    "frontend",
+    "backend"
+  ],
+  "author": "Ekenekiso Ugbanawaji Leonard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tetranyble/leonard/issues"
+  },
+  "homepage": "https://github.com/Tetranyble/leonard#readme"
+}
