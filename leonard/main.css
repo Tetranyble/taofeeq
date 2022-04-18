@@ -51,4 +51,85 @@ body{
     font-size: 104px;
     margin-block-start: -50px;
     margin-block-end: -20px;
+  
+}
+
+.btn-blue{
+    background-color: #1AA3F0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 4px;
+    border-width: 0;
+    border-style: none;
+    margin-right: .5rem;
+    color: #FFF;
+    font-weight: 600;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+
+.btn-blue-outline{
+    background-color: #FFF;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 4px;
+    border-width: 2px 2px;
+    border-style: none;
+    margin-right: .5rem;
+    color: #1AA3F0;
+    font-weight: 600;
+    font-family: 'Roboto';
+    font-size: 16px;
+}
+.col-md-1{
+    width: 8.33333%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.col-md-2{
+    width: 16.66666%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.col-md-3{
+    width: 25%;
+    margin-right: 16px;
+    margin-left: 16px;
+}
+.col-md-4{
+    width: 33.33333%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.col-md-5{
+    width: 41.66665%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.col-md-7{
+    width: 58.33331%;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.about-intro{
+    margin-left: 81px;
+    margin-top: 129px;
+}
+.about-intro p:first-child{
+    color: #1AA3F0;
+    font-size: 20px;
+}
+.about-intro h1{
+    font-size: 104px;
+    font-family: 'Roboto';
+    font-weight: 800;
+    margin-block-start: -50px;
+    margin-block-end: -20px;
+}
+.about-intro p:last-child, .about-intro h1{
+    color: #3E4356;
 }
