@@ -37,9 +37,7 @@ body{
 .call-to-action, .heqading{
     display: block;
 }
-.image-container{
-    margin-top: 93px;
-}
+
 .heading h3{
     font-weight: 400;
     font-family: 'Montserrat';
@@ -132,4 +130,16 @@ body{
 }
 .about-intro p:last-child, .about-intro h1{
     color: #3E4356;
+}
+.about-image-container{
+    margin-top: 74px;
+    background-color: #D1D9E6;
+    border-radius: 10px;
+    box-shadow: 10px 10px 19px  #E2E8EC;
+    padding: 16px;
+}
+.about-image{
+    max-width: 100%;
+    border-radius: 10px;
+   
 }
