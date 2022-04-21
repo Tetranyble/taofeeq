@@ -20,7 +20,7 @@ body{
 .col-md-6{
     padding-left: 16px;
     padding-right: 16px;
-    width: 100%;
+    width: 50%;
 }
 .responsive_image{
     height: 487px;
@@ -142,4 +142,18 @@ body{
     max-width: 100%;
     border-radius: 10px;
    
+}
+.institution-container{
+    margin-top: 56px;
+    font-family: 'Roboto';
+}
+.i-content{
+   padding: 16px;
+    border: 2px solid #1AA3F0;
+    border-radius: 16px;
+    background-color: #b9ddf2;
+}
+.i-header{
+    padding: 16px;
+    text-align: center;
 }
